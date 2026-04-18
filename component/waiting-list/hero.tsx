@@ -8,7 +8,7 @@ export const monaSans = Mona_Sans({
 export function Hero() {
   return (
     <div className="flex flex-col pt-35 sm:pt-25 justify-center gap-5 items-center px-4 sm:px-0">
-      <div className="bg-white px-4  font-mona-sans text-[#1a1a1a] py-1 text-[11px] border border-[#dedede] shadow-[0_12px_50px_10px_rgba(204,204,204,1)] rounded-full">
+      <div className="bg-white px-4  font-mona-sans text-[#1a1a1a] py-1 text-[11px] border border-[#dedede] shadow-[0_9px_90px_10px_rgba(204,204,204,1)] rounded-full">
         LAUNCHING SOON
       </div>
       <h2 style={monaSans.style} className="font-bold text-3xl sm:text-4xl text-center">
